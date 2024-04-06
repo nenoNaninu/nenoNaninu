@@ -1,4 +1,4 @@
-I have published many libraries for C# and TypeScript.
+I have published many OSS libraries for C# and TypeScript.
 
 ## For SignalR
 
