@@ -7,10 +7,14 @@ I have published many OSS libraries for C# and TypeScript.
 - [TypedSignalR.Client.DevTools](https://github.com/nenoNaninu/TypedSignalR.Client.DevTools)
 - [AspNetCore.SignalR.OpenTelemetry](https://github.com/nenoNaninu/AspNetCore.SignalR.OpenTelemetry)
 
+
+
 ## Others
 
 - [Tapper](https://github.com/nenoNaninu/Tapper)
-- [AspireExtensions.GrpcUI](https://github.com/nenoNaninu/AspireExtensions.GrpcUI)
+- [AspireExtensions](https://github.com/nenoNaninu/AspireExtensions)
+    - gRPC UI
+    - Minio
 - [HomographySharp](https://github.com/nenoNaninu/HomographySharp)
 
 
