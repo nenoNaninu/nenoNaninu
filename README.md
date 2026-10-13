@@ -9,7 +9,7 @@ I have published many OSS libraries for C# and TypeScript.
 - [TypedSignalR.Client.DevTools](https://github.com/nenoNaninu/TypedSignalR.Client.DevTools)
     - SignalR development tools inspired by SwaggerUI. 
 - [AspNetCore.SignalR.OpenTelemetry](https://github.com/nenoNaninu/AspNetCore.SignalR.OpenTelemetry)
-    - This is an Instrumentation Library, which instruments ASP.NET Core SignalR and collect metrics and traces about SignalR hub method invocations. 
+    - OpenTelemetry instrumentation for SignalR.
 
 
 ## For Cloudflare
